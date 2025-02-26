@@ -1,20 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="500" height="100">
-  <text id="typewriter" x="10" y="40" font-family="monospace" font-size="30" fill="black">
-    Hello, je suis [Ton Nom] !
-  </text>
-  <style>
-    #typewriter {
-      animation: typing 4s steps(40) 1s forwards, blink 0.75s step-end infinite;
-    }
-    @keyframes typing {
-      from { width: 0; }
-      to { width: 100%; }
-    }
-    @keyframes blink {
-      50% { border-color: transparent; }
-    }
-  </style>
-</svg>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 # 🚀 Mon Projet Génial
