@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Salut+!+moi+c'est+Keralte)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SALUT+!+MOI+C'EST+KERALTE+ou+Christian+)](https://git.io/typing-svg)
 
 
 # 🚀 Mon Projet Génial
