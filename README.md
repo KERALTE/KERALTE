@@ -8,8 +8,25 @@
 🇫🇷 **[Voir la version Française](#version-fr)** | 🇬🇧 **[See the English version](#version-en)**
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=KERALTE&theme=shadow-purple&border_radius=35&locale=fr)](https://git.io/streak-stats)
+<a id="version-fr"></a>
+# 🇫🇷 VERSION FRANCAISE 
 
+<details open>
+  <summary><h1>À Propos</h1></summary>
+       
+  Bienvenue sur mon profil GitHub !
+  Je m'appelle **Christian Nelles**, et je suis un développeur logiciel **Full Stack**. J'aime concevoir majoritairement des jeux-video et des programmes plus ou moins utile.
+  
+  ### Ce que je fais :
+  - Développement d'applications **Full Stack** : JavaScript, Python, etc.
+  - Développement de bases de données (SQL, NoSQL).
+  - Passionné par l'optimisation des performances et l'expérience utilisateur.
+  
+  ### Comment je travaille :
+  - J'accorde une grande importance aux bonnes pratiques de codage et à l'écriture de tests unitaires.
+  - Travaillant principalement en solo, je mise sur une organisation et une structuration efficaces.
+  - Mon objectif est toujours de produire un code propre, maintenable et performant.
+</details>
 
 <details>
   <summary><h1>Mes Outils</h1></summary>
@@ -91,34 +108,34 @@
     <li><img style="width: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" /> GitHub</li>
     <li><img style="width: 15px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" /> Trello</li>
   </ul>
-
 </details>
 
+<details>
+  <summary><h1>Mes Stats</h1></summary>
+       
+[![GitHub Streak](https://streak-stats.demolab.com?user=KERALTE&theme=shadow-purple&border_radius=35&locale=fr)](https://git.io/streak-stats)
+       
+</details>
 
-          
+<details>
+  <summary><h1>Mes Videos</h1></summary>
+       
+</details>
 
-# 🚀 Mon Projet Génial
-![Version](https://img.shields.io/badge/version-1.0-blue)
-![Build](https://img.shields.io/badge/build-passing-green)
+<details>
+  <summary><h1>Liens Et Contacts</h1></summary>
+       
+  ## 🔗 Liens
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](lien-vers-ton-portfolio)  
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@keralte)  
 
-![Demo](https://media.giphy.com/media/3o7abldj0b3rxrZUxW/giphy.gif)
 
-## ✨ Description
-Ce projet permet de [résoudre un problème génial] en utilisant [une technologie cool]. 
-Il est simple à utiliser et améliore [un truc important].
+  ##Contacts
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nelles-1b89a2338/)  
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](lien-vers-ton-discord)
+[![Gmail Personnel](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cricrinelles@gmail.com)
+[![Gmail Professionnel](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian-nelles@laplateforme.io)
+</details>
 
-## 📌 Section 1 <a name="section1"></a>
-Contenu de la section 1...
-
-## 🎥 Démo
-
-![Screenshot](https://via.placeholder.com/800x400.png?text=Demo+du+Projet)
-
-## 🔗 Liens
-- 🌍 [Site web](https://monprojet.com)
-- 📖 [Documentation](https://monprojet.com/docs)
-- 🐦 [Twitter](https://twitter.com/monprojet)
-
-## 🔥 Section 2 <a name="section2"></a>
-Contenu de la section 2...
-
+<a id="version-en"></a>
+# 🇬🇧 ENGLISH VERSION
