@@ -113,28 +113,32 @@
 <details>
   <summary><h1>Mes Stats</h1></summary>
        
-[![GitHub Streak](https://streak-stats.demolab.com?user=KERALTE&theme=shadow-purple&border_radius=35&locale=fr)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=KERALTE&theme=material-palenight&hide_border=true&border_radius=35&locale=fr)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KERALTE&show_icons=true&theme=material-palenight&hide_border=true&border_radius=35&locale=fr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KERALTE&layout=compact&theme=material-palenight&hide_border=true&border_radius=35&locale=fr)
        
 </details>
 
 <details>
   <summary><h1>Mes Videos</h1></summary>
-       
+       <!-- BEGIN YOUTUBE-CARDS -->
+       <!-- END YOUTUBE-CARDS -->
 </details>
 
 <details>
   <summary><h1>Liens Et Contacts</h1></summary>
        
-  ## 🔗 Liens
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](lien-vers-ton-portfolio)  
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@keralte)  
+## 🔗 Liens 
+<a href="https://ton-portfolio.com"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white"></a>  
+<a href="https://www.youtube.com/@keralte"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>  
 
-
-  ##Contacts
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-nelles-1b89a2338/)  
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](lien-vers-ton-discord)
-[![Gmail Personnel](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cricrinelles@gmail.com)
-[![Gmail Professionnel](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:christian-nelles@laplateforme.io)
+  
+## 📱 Contacts
+<a href="https://www.linkedin.com/in/christian-nelles-1b89a2338/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+<a href="https://discord.com/users/ton-discord-id"><img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>  
+<a href="mailto:cricrinelles@gmail.com"><img alt="Gmail Personnel" src="https://img.shields.io/badge/Gmail%20Personnel-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+<a href="mailto:christian-nelles@laplateforme.io"><img alt="Gmail Professionnel" src="https://img.shields.io/badge/Gmail%20Professionnel-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
 </details>
 
 <a id="version-en"></a>
