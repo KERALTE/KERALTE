@@ -2,6 +2,8 @@
 
 <img src="https://github.com/KERALTE/KERALTE/blob/main/banner.png" />
 
+---
+
 <a id="version-fr"></a>
 # 🇫🇷 VERSION FRANCAISE 
 🇬🇧 **[See the English version](#version-en)**
