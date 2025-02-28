@@ -23,6 +23,9 @@
   - J'accorde une grande importance aux bonnes pratiques de codage et à l'écriture de tests unitaires.
   - Travaillant principalement en solo, je mise sur une organisation et une structuration efficaces.
   - Mon objectif est toujours de produire un code propre, maintenable et performant.
+
+  j'ai également un compte secondaire qui me permet de partager les projets demandés de mon établissement mais il reste marginal dans mon activité.  
+  Si vous restez curieux vous pouvez le consulter ici : [**christian-nelles**](https://github.com/christian-nelles)
 </details>
 
 <details>
@@ -162,6 +165,9 @@
   - I highly value coding best practices and writing unit tests.
   - Working mostly solo, I focus on effective organization and structuring.
   - My goal is always to produce clean, maintainable, and high-performance code.
+
+  I also have a secondary account that allows me to share the projects requested by my institution, but it remains marginal in my activities.  
+  If you're still curious, you can check it out here : [**christian-nelles**](https://github.com/christian-nelles)
 </details>
 
 <details>
